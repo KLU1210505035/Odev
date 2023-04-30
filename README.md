@@ -104,3 +104,4 @@ Son olarak, Dijkstra algoritması ve onunla ilgili tekniklerin geliştirilmesi v
 5. getRealDistance metodu, Google Maps API'ı kullanarak iki nokta arasındaki gerçek mesafeyi hesaplar. Bu metot, iki Location nesnesi alır ve gerçek mesafeyi metre cinsinden döndürür.
 6. findShortestPath metodu, Dijkstra algoritmasını kullanarak en kısa yolu hesaplar. Bu metot, bir başlangıç noktası (Location nesnesi) ve ihtiyaç noktalarının listesi alır ve en kısa yolun List<Location> tipinde bir çıktı verir.
 7. main metodu, ihtiyaç noktalarını ve stoklarını belirler, başlangıç noktasını belirler, en kısa yolu hesaplar ve sonucu ekrana yazdırır.
+
